@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding 
 - 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on an interesting project
-- 📫 How to reach me richakumari.rk03@gmail.com
+- 📫 How to reach me richakumari.rk03@gmail.com/https://richa-portfolio-alpha.vercel.app/
 - 😄 Pronouns: She/her
 
 <!---
