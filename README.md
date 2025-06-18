@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @richa-47
-- 😄 Pronouns: She/her
 
-# Hi there 👋, I'm Richa Kumari
+
+
+# Hi there 👋, I'm Richa Kumari  | 😄 Pronouns: She/her
 
 ## 🚀 About Me
 🎓 B.Tech in Computer Science  
